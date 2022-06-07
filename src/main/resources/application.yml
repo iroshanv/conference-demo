@@ -1,0 +1,5 @@
+#https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html
+
+server:
+  port: 2223
+
